@@ -1,4 +1,4 @@
-package github.com.jailcomfranssa.pet_clinic;
+package github.com.jailcomfranssa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

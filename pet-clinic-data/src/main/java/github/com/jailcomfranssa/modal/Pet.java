@@ -1,4 +1,4 @@
-package github.com.jailcomfranssa.pet_clinic.modal;
+package github.com.jailcomfranssa.modal;
 
 import java.time.LocalDate;
 
