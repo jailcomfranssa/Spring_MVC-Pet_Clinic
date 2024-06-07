@@ -24,7 +24,24 @@
 	</dependencies>
 	<build>
 		<plugins>
-			<!-- No Spring Boot Maven Plugin here -->
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>3.0.1</version>
+				<configuration>
+					<tagNameFormat>@{project.version}</tagNameFormat>
+				</configuration>
+			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<connection>scm:git:https://github.com/jailcomfranssa/pet-clinic.git</connection>
+		<developerConnection>scm:git:git@github.com:jailcomfranssa/pet-clinic.git</developerConnection>
+		<url>https://github.com/jailcomfranssa/pet-clinic</url>
+		<tag>HEAD</tag>
+	</scm>
 </project>
