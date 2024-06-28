@@ -43,7 +43,7 @@
         <connection>scm:git:https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic.git</connection>
         <developerConnection>scm:git:https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic.git</developerConnection>
         <url>https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic</url>
-        <tag>0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
 </project>
