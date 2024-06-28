@@ -8,7 +8,8 @@
 	</parent>
 	<groupId>github.com.jailcomfranssa</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
+
 	<packaging>pom</packaging>
 	<name>pet-clinic</name>
 	<description>Spring Framework 5: Learn Spring Framework 5, Spring Boot 2, Spring MVC, Spring Data JPA, Spring Data MongoDB, Hibernate</description>
@@ -37,10 +38,11 @@
 
 		</plugins>
 	</build>
-	<scm>
-		<connection>scm:git:git@github.com:jailcomfranssa/Spring_MVC-Pet_Clinic.git</connection>
-		<developerConnection>scm:git:git@github.com:jailcomfranssa/Spring_MVC-Pet_Clinic.git</developerConnection>
-		<url>https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic</url>
-		<tag>0.0.1</tag>
-	</scm>
+    <scm>
+        <connection>scm:git:https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic.git</connection>
+        <developerConnection>scm:git:https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic.git</developerConnection>
+        <url>https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic</url>
+        <tag>0.0.1</tag>
+    </scm>
+
 </project>
