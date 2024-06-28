@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>github.com.jailcomfranssa</groupId>
 	<artifactId>pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<packaging>pom</packaging>
 	<name>pet-clinic</name>
@@ -43,7 +43,7 @@
         <connection>scm:git:https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic.git</connection>
         <developerConnection>scm:git:https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic.git</developerConnection>
         <url>https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic</url>
-        <tag>v0.0.1</tag>
+        <tag>0.0.1</tag>
     </scm>
 
 </project>
