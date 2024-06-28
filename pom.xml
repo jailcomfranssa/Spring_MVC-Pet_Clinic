@@ -38,9 +38,9 @@
 		</plugins>
 	</build>
 	<scm>
-		<connection>scm:git:https://github.com/jailcomfranssa/pet-clinic.git</connection>
-		<developerConnection>scm:git:git@github.com:jailcomfranssa/pet-clinic.git</developerConnection>
-		<url>https://github.com/jailcomfranssa/pet-clinic</url>
+		<connection>scm:git:git@github.com:jailcomfranssa/Spring_MVC-Pet_Clinic.git</connection>
+		<developerConnection>scm:git:git@github.com:jailcomfranssa/Spring_MVC-Pet_Clinic.git</developerConnection>
+		<url>https://github.com/jailcomfranssa/Spring_MVC-Pet_Clinic</url>
 		<tag>0.0.1</tag>
 	</scm>
 </project>
