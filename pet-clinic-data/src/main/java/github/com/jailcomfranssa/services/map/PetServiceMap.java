@@ -2,9 +2,11 @@ package github.com.jailcomfranssa.services.map;
 
 import github.com.jailcomfranssa.modal.Pet;
 import github.com.jailcomfranssa.services.PetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
 
     @Override
